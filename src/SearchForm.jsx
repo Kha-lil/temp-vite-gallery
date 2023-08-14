@@ -1,4 +1,4 @@
-import { useGlobalContext } from "./src/context";
+import { useGlobalContext } from "./context";
 
 
 const SearchForm = () => {

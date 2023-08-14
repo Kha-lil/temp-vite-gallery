@@ -1,5 +1,5 @@
 import Gallery from "./Gallery";
-import SearchForm from "../SearchForm";
+import SearchForm from "./SearchForm";
 import ThemeToggle from "./ThemeToggle";
 
 const App = () => {
